@@ -11,8 +11,8 @@ direction of price changes as well as the magnitude of adjustment.
 
 * `code/` folder contains an R script for creating the expanded competitor
 price datasets, as well as python scripts for the empirical reset inflation exercise
-* `data/` folder includes grocery and appliance datasets from MIT's Billion
-Prices Project (http://www.thebillionpricesproject.com/datasets/) that are expanded
+* `data/` folder includes grocery and appliance datasets from [MIT's Billion
+Prices Project](http://www.thebillionpricesproject.com/datasets/) that are expanded
 in the set_data.R script. Data from the `data/expanded` folder (which is used in the
 empirical reset inflation exercise) is ignored by git due to the size of the dataset
 * `fig_table_notebooks/` folder contains Ipython notebooks that provide the all code 
