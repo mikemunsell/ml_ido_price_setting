@@ -17,4 +17,4 @@ in the set_data.R script. Data from the `data/expanded` folder (which is used in
 empirical reset inflation exercise) is ignored by git due to the size of the dataset
 * `fig_table_notebooks/` folder contains Ipython notebooks that provide the all code 
 required to reproduce the tables and figures from the manuscript.
-* `manuscript/` folder contains .tex code for manuscript, as well as most recent PDF
+* `manuscript/` folder contains .tex code for manuscript, as well as most recent PDF.
