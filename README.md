@@ -1,8 +1,8 @@
 # Estimating Idiosyncratic Price Setting Behavior with Machine Learning
 ### Mike Munsell, Brandeis University (October 2018)
 
-In this paper, I survey a traditional econometric model for estimating optimal price setting be-
-havior, and then provide intuition on how the standard model could be mapped to various machine
+In this paper, I survey a traditional econometric model for estimating optimal price setting behavior, 
+and then provide intuition on how the standard model could be mapped to various machine
 learning methods, including ridge regression, random forest, and KNN. Using online grocery price
 data, I demonstrate that the machine learning methods show modest improvements in estimating the
 direction of price changes as well as the magnitude of adjustment.
