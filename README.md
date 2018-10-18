@@ -15,6 +15,6 @@ price datasets, as well as python scripts for the empirical reset inflation exer
 Prices Project](http://www.thebillionpricesproject.com/datasets/) that are expanded
 in the set_data.R script. Data from the `data/expanded` folder (which is used in the
 empirical reset inflation exercise) is ignored by git due to the size of the dataset
-* `fig_table_notebooks/` folder contains Ipython notebooks that provide the all code 
-required to reproduce the tables and figures from the manuscript.
-* `manuscript/` folder contains .tex code for manuscript, as well as most recent PDF.
+* `fig_table_notebooks/` folder contains IPython notebooks that provide code 
+required to reproduce the primary tables and figures from the manuscript.
+* `manuscript/` folder contains .tex code for manuscript, as well as most recent PDF version.
